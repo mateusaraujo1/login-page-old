@@ -39,7 +39,8 @@ button {
 
 button:hover {
     background-color: orangered;
-    font-size: 16px;
-    padding: 14.5px;
-    border-radius: 15px;
+    font-size: 17px;
+    padding: 13.5px;
+    border-radius: 14px;
+    width: 100%;
 }
